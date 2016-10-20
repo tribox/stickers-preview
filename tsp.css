@@ -1,3 +1,8 @@
+body {
+    font-family: 'ヒラギノ角ゴ Pro W3','Hiragino Kaku Gothic Pro','メイリオ',Meiryo,'ＭＳ Ｐゴシック',arial,verdana,sans-serif;
+}
+
+
 #g-cube-container {
     background-color: #777;
 }
@@ -9,7 +14,7 @@
 
 
 // Other body colors
-.foooo {
+.grey, .brown, .lightblue, .cyan, .pink {
     opacity: 1;
     -webkit-backface-visibility: hidden;
     -moz-backface-visibility:    hidden;
