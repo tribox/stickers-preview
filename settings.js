@@ -9,7 +9,10 @@ var defaultColor = {
     "B": "395"
 };
 
-var bodyColorList = ["black", "white", "transparent", "red", "blue", "green", "yellow", "orange"];
+var bodyColorList = [
+    "black", "white", "transparent", "red", "blue", "green", "yellow", "orange",
+    "grey", "brown", "lightblue", "cyan", "pink"
+];
 
 var colorList = {
     '010': {rgba: [255, 255, 255, 1.0], name: 'White'},

@@ -6,3 +6,23 @@
     height: 3em;
     text-align: center;
 }
+
+
+// Other body colors
+.foooo {
+    opacity: 1;
+    -webkit-backface-visibility: hidden;
+    -moz-backface-visibility:    hidden;
+    -o-backface-visibility:      hidden;
+    backface-visibility:         hidden;
+}
+.grey .face { background-color: #848484; }
+.grey .face.faceIntroverted { background-color: #848484; }
+.brown .face { background-color: #610B0B; }
+.brown .face.faceIntroverted { background-color: #610B0B; }
+.lightblue .face { background-color: #81DAF5; }
+.lightblue .face.faceIntroverted { background-color: #81DAF5; }
+.cyan .face { background-color: #58FAF4; }
+.cyan .face.faceIntroverted { background-color: #58FAF4; }
+.pink .face { background-color: #F6CEE3 }
+.pink .face.faceIntroverted { background-color: #F6CEE3; }
